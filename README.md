@@ -1,4 +1,6 @@
-partymode
+modal bookmarklets
 =========
 
-Make any website full of funk
+PartyMode: Make any website full of funk
+
+VeryGlassy: See the web with a different pair of eyes
