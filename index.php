@@ -62,7 +62,7 @@
 	<div class='left group'>
 		VeryGlassy
 		<br>
-		<a class='b leftb' href="javascript:(function(){var b=document.body;var rad=5;b.style.webkitFilter=b.style.MozFilter=b.style.OFilter=b.style.MsFilter='blur('+rad+'px)';})()">VeryGlassy</a>
+		<a class='b leftb' href="javascript:(function(){var b=document.body;var rad=2;b.style.webkitFilter=b.style.MozFilter=b.style.OFilter=b.style.MsFilter='blur('+rad+'px)';})()">VeryGlassy</a>
 		<br><br>
 		<p>works well on shorter pages</p>
 		<br><br>
